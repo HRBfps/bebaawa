@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(247, 229, 184);
+}
+.bbwmg {
+    display: block;
+    margin: auto auto;
+    text-align: center;
+    border: gold solid 6px;
+    border-radius: 100%;
+    box-shadow:  4px 4px 1.8em 1.8em rgb(243, 241, 154);
+    margin-top: 3em;
+}
+img:hover {
+    transition: 600ms;
+    filter:brightness(1.1)
+}
+.h1 {
+    margin-left: 1.2em;
+    font-size: 4em;
+    color: rgb(90, 178, 240);
+    margin-left: 10px;
+}
+p {
+    margin: 1.2em 2em;
+    font-size: 2em;
+    Text-indent: 1em;
+}
+
+.bebaawa {
+    padding-top: 1em;
+    color:rgb(90, 178, 240);
+    font-size: 4em;
+    width: 100%;
+    display: block;
+    margin: auto auto;
+    display: inline-block;
+    text-align: center;
+    background-color: rb(164, 244, 234);
+}
+.awa {
+    margin: auto auto;
+    size: 50% 50%;
+    display: block;
+}
